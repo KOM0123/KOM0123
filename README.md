@@ -74,16 +74,16 @@ TurtleBot3, Limo, 매니퓰레이터로 자율주행·로봇팔 제어를 실험
 <tr>
 <td width="50%" valign="top">
 
-**[🤖 프로젝트명 자리](https://github.com/KOM0123)**
-한 줄 설명을 적어주세요.
-`ROS2` `C++`
+**[🐢 TurtleBot3 자율주행](https://github.com/KOM0123)**
+SLAM으로 지도를 만들고 Navigation2로 목표 지점까지 스스로 이동하는 자율주행 로봇입니다.
+`ROS2` `SLAM` `Nav2` `C++`
 
 </td>
 <td width="50%" valign="top">
 
-**[🌐 프로젝트명 자리](https://github.com/KOM0123)**
-한 줄 설명을 적어주세요.
-`Python` `Unity`
+**[🦾 매니퓰레이터 제어](https://github.com/KOM0123)**
+로봇팔의 순/역기구학을 계산해 원하는 위치로 정확하게 움직이고 물체를 집어 옮기는 제어 시스템입니다.
+`ROS2` `MoveIt2` `Python`
 
 </td>
 </tr>
