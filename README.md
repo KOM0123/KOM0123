@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF7A18&height=180&section=header&text=KOM0123&fontSize=50&fontColor=FF7A18&animation=fadeIn&fontAlignY=38&desc=Robot%20Control%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%" />
+# 안녕하세요, KOM입니다 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF7A18&background=0D1117&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+KOM+%F0%9F%91%8B;Robot+Control+Engineer;ROS2+%C2%B7+%EB%A1%9C%EB%B4%87%ED%8C%94+%C2%B7+Physical+AI" alt="typing-svg" />
+### Robot Control Engineer · ROS2 · 로봇팔 · Physical AI
 
 <br/>
 
@@ -107,5 +107,9 @@ SLAM으로 지도를 만들고 Navigation2로 목표 지점까지 스스로 이�
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:0D1117&height=100&section=footer" width="100%" />
+
+---
+
+**Thanks for visiting my profile! 🤖**
+
 </div>
