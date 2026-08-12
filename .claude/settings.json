@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "CLAUDE_PLUGIN_ROOT=1 bash \"/workspace/kom0123/.claude/hooks/run-hook.cmd\" session-start",
+            "shell": "bash",
+            "async": false
+          }
+        ]
+      }
+    ]
+  }
+}
