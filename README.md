@@ -67,8 +67,4 @@ Unity와 ROS 2를 연결한 **디지털 트윈**으로 로봇팔·컨베이어 �
 
 <img src="https://streak-stats.demolab.com/?user=KOM0123&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
 
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KOM0123&theme=github-compact&hide_border=true&bg_color=0D1117" alt="Activity graph" width="100%" />
-
 </div>
