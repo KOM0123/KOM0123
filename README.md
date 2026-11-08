@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="직접 만든 TurtleBot3 사진을 점묘로 바꾼 배너" width="100%" />
+<img src="assets/banner.png" alt="DT_Index 프로젝트의 Fairino FR20 로봇팔 3D 모델을 점묘로 렌더링한 배너" width="100%" />
 
 ## 안녕하세요, 권오민입니다 👋
 
